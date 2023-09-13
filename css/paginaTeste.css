@@ -1,0 +1,32 @@
+#teste{
+    color: rgb(243, 251, 189);
+    Background: #C5965F;
+}
+
+a:link{
+    color: black
+}
+
+a:visited{
+    color:antiquewhite
+}
+
+a:hover{
+    color: white
+}
+
+footer{
+    padding: 20px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+body{
+    background-color: #C5965F;
+    align-items: center;
+    text-align: center;
+}
+#formulario{
+    padding-top: 20%;
+}
